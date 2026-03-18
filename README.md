@@ -26,7 +26,7 @@ Ce projet utilise le Machine Learning pour analyser et prédire la réussite des
 
     Métriques clés : Utilisation de la Matrice de Confusion, du Score F1 et de la Courbe ROC pour valider la robustesse du modèle.
 
-    Facteurs d'influence (Insights) : * L'assiduité (Attendance (%)) et la participation sont les prédicteurs les plus forts de la réussite.
+    Facteurs d'influence (Insights) : L'assiduité (Attendance (%)) et la participation sont les prédicteurs les plus forts de la réussite.
 
         Le niveau de stress et les heures de sommeil ont un impact mesurable sur les scores finaux.
 
