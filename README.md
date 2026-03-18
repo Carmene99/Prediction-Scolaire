@@ -21,7 +21,7 @@ Méthodologie & Pipeline de Données
 
 Résultats & Performance
 
-    Précision du modèle : Ton modèle a atteint une performance très élevée (jusqu'à 100% de précision sur certains tests de validation croisée), ce qui montre une séparation très claire des classes dans ton jeu de données.
+    Précision du modèle : Notre modèle a atteint une performance très élevée (jusqu'à 100% de précision sur certains tests de validation croisée), ce qui montre une séparation très claire des classes dans ton jeu de données.
 
     Métriques clés : Utilisation de la Matrice de Confusion, du Score F1 et de la Courbe ROC pour valider la robustesse du modèle.
 
@@ -31,4 +31,4 @@ Résultats & Performance
 
 Conclusion du projet
 
-Le modèle ne se contente pas de prédire ; il sert d'outil d'aide à la décision pour les institutions éducatives afin d'identifier les élèves à risque et de mettre en place des actions de soutien ciblées.
+Notre modèle ne se contente pas de prédire ; il sert d'outil d'aide à la décision pour les institutions éducatives afin d'identifier les élèves à risque et de mettre en place des actions de soutien ciblées.
