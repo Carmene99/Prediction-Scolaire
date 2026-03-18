@@ -1,9 +1,10 @@
-Projet : Système Prédictif de Réussite Académique
-Présentation du Projet
+## Système Prédictif de Réussite Académique
+
+## Présentation du Projet
 
 Ce projet utilise le Machine Learning pour analyser et prédire la réussite des étudiants. Au-delà de la simple prédiction (Pass/Fail), l'objectif est de comprendre les leviers comportementaux et sociaux qui influencent la performance scolaire.
 
-Méthodologie & Pipeline de Données
+## Méthodologie & Pipeline de Données
 
     Source des données : Students_Grading_Dataset.csv (5000 entrées).
 
@@ -19,7 +20,7 @@ Méthodologie & Pipeline de Données
 
         Random Forest et SVM pour comparer les performances.
 
-Résultats & Performance
+## Résultats & Performance
 
     Précision du modèle : Notre modèle a atteint une performance très élevée (jusqu'à 100% de précision sur certains tests de validation croisée), ce qui montre une séparation très claire des classes dans ton jeu de données.
 
@@ -29,6 +30,6 @@ Résultats & Performance
 
         Le niveau de stress et les heures de sommeil ont un impact mesurable sur les scores finaux.
 
-Conclusion du projet
+## Conclusion du projet
 
 Notre modèle ne se contente pas de prédire ; il sert d'outil d'aide à la décision pour les institutions éducatives afin d'identifier les élèves à risque et de mettre en place des actions de soutien ciblées.
